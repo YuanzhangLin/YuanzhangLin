@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 :satisfied:	 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities, you can always contact me at:
 
-:email:	Email: yuanzhanglin@buaa.edu.cn
+:email:	Email: [yuanzhanglin@buaa.edu.cn](yuanzhanglin@buaa.edu.cn)
+
+:house_with_garden: Homepage: [yuanzhanglin.github.io](yuanzhanglin.github.io)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/YuanzhangLin/count.svg) visitor,Thank You! :satisfied:	
 
